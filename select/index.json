@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Ζ･刻をこえて",
+  "base_artist": "森口博子",
+  "createdAt": "2025-12-30T10:35:22.330691Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ζ・刻をこえて",
+      "artist": "森口博子",
+      "has_synced": false,
+      "path": "select/01_Ζ・刻をこえて_森口博子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ζ・刻をこえて（ロング・ヴァージョン）",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/02_Ζ・刻をこえて(ロング・ヴァージョン)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ζ.刻をこえて",
+      "artist": "森口博子",
+      "has_synced": false,
+      "path": "select/03_Ζ.刻をこえて_森口博子.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ζ･刻をこえて",
+      "artist": "森口博子",
+      "has_synced": false,
+      "path": "select/04_Ζ・刻をこえて_森口博子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ζ・刻をこえて",
+      "artist": "鮎川麻弥",
+      "has_synced": false,
+      "path": "select/05_Ζ・刻をこえて_鮎川麻弥.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ζ・刻をこえて（ロング・ヴァージョン）",
+      "artist": "鮎川麻弥",
+      "has_synced": true,
+      "path": "select/06_Ζ・刻をこえて(ロング・ヴァージョン)_鮎川麻弥.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ζ・刻をこえて",
+      "artist": "森口 博子",
+      "has_synced": false,
+      "path": "select/pl_01_Ζ・刻をこえて_森口_博子.txt"
+    }
+  ]
+}
